@@ -1,6 +1,4 @@
-
-
-````markdown
+```bash
 #  Next.js Practice Project – SV InfoTech Website
 
 This is a **practice project** built with [Next.js 14](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).  
@@ -26,7 +24,7 @@ It’s a simple **company-style website** with pages like **Home, About, Service
 
 ##  Project Structure
 
-```bash
+
 my-nextjs-practice/
 ├── app/
 │   ├── page.jsx          # Home Page
@@ -46,7 +44,6 @@ my-nextjs-practice/
 ├── tailwind.config.js
 ├── postcss.config.js
 └── README.md             # Project documentation
-````
 
 ---
 
@@ -103,7 +100,7 @@ This project is for **learning purposes only**. You can use the code freely to p
 
 ##  Author
 
-- Developed by **SV (Sapeksh Vishwakarma)** ❤️
+- Developed by **(Sapeksh Vishwakarma)** ❤️
 - Email: [sapekshvishwakarma@gmail.com](mailto:sapekshvishwakarma@gmail.com)
 - Portfolio: [https://sapeksh-portfolio.netlify.app/](https://sapeksh-portfolio.netlify.app/)
 

@@ -1,29 +1,31 @@
-```bash
-#  Next.js Practice Project – SV InfoTech Website
+
+```markdown
+# Next.js Practice Project – SV InfoTech Website
 
 This is a **practice project** built with [Next.js 14](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/).  
 It’s a simple **company-style website** with pages like **Home, About, Services, and Contact**, along with a responsive **Navbar** and **Footer**.
 
 ---
 
-##  Features
+## Features
 
--  Built with **Next.js 14** (App Router).
--  Styled with **Tailwind CSS**.
--  Fully **responsive design** (desktop & mobile).
--  **Navigation bar** with active state highlighting.
--  Pages included:
+- Built with **Next.js 14** (App Router).
+- Styled with **Tailwind CSS**.
+- Fully **responsive design** (desktop & mobile).
+- **Navigation bar** with active state highlighting.
+- Pages included:
   - **Home Page** – Intro & services highlight.
   - **About Page** – Company/Project details.
   - **Services Page** – List of offered services.
   - **Contact Page** – Contact form, email, and social links.
--  **Sticky Navbar** with mobile hamburger menu.
--  Smooth hover effects & gradient UI sections.
+- **Sticky Navbar** with mobile hamburger menu.
+- Smooth hover effects & gradient UI sections.
 
 ---
 
-##  Project Structure
+## Project Structure
 
+```
 
 my-nextjs-practice/
 ├── app/
@@ -45,16 +47,17 @@ my-nextjs-practice/
 ├── postcss.config.js
 └── README.md             # Project documentation
 
+````
+
 ---
 
-##  Getting Started
+## Getting Started
 
 ### 1. Clone the repository
-
 ```bash
 git clone https://github.com/your-username/my-nextjs-practice.git
 cd my-nextjs-practice
-```
+````
 
 ### 2. Install dependencies
 
@@ -76,7 +79,7 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🎉
 
 ---
 
-##  Technologies Used
+## Technologies Used
 
 * [Next.js 14](https://nextjs.org/) – React Framework
 * [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS
@@ -85,6 +88,9 @@ Now open [http://localhost:3000](http://localhost:3000) in your browser 🎉
 
 ---
 
+## Live Demo 
+
+* Deploy on vercel: [Link] (https://sv-infotech.vercel.app) *
 
 ## Contributing
 
@@ -92,17 +98,18 @@ This is just a **practice project**, but if you have suggestions or improvements
 
 ---
 
-##  License
+## License
 
-This project is for **learning purposes only**. You can use the code freely to practice and build your own Next.js projects.
+This project is for **learning purposes only**.
+You can use the code freely to practice and build your own Next.js projects.
 
 ---
 
-##  Author
+## Author
 
-- Developed by **(Sapeksh Vishwakarma)** ❤️
-- Email: [sapekshvishwakarma@gmail.com](mailto:sapekshvishwakarma@gmail.com)
-- Portfolio: [https://sapeksh-portfolio.netlify.app/](https://sapeksh-portfolio.netlify.app/)
+* Developed by **Sapeksh Vishwakarma** ❤️
+* Email: [sapekshvishwakarma@gmail.com](mailto:sapekshvishwakarma@gmail.com)
+* Portfolio: [https://sapeksh-portfolio.netlify.app/](https://sapeksh-portfolio.netlify.app/)
 
 ```
-
+```
